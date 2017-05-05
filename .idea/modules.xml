@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClipperPicture.iml" filepath="$PROJECT_DIR$/ClipperPicture.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/clipImageDemo/clipImageDemo.iml" filepath="$PROJECT_DIR$/clipImageDemo/clipImageDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clipper/clipper.iml" filepath="$PROJECT_DIR$/clipper/clipper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clipper_library/clipper_library.iml" filepath="$PROJECT_DIR$/clipper_library/clipper_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>

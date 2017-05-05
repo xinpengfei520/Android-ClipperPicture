@@ -1,1 +1,1 @@
-include ':app', ':library', ':clipImageDemo'
+include ':app', ':library', ':clipper_library', ':clipper'

@@ -1,7 +1,0 @@
-#Fri May 05 11:24:23 CST 2017
-base.0=D\:\\AndroidStudioProjects\\ClipperPicture\\clipImageDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64d39f750a5516c5d4c6fd2bc0a0869ed658094f
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=D\:\\AndroidStudioProjects\\ClipperPicture\\clipImageDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ed0e6ae269932062c065509203f399e57782950\\classes.dex
-base.1=D\:\\AndroidStudioProjects\\ClipperPicture\\clipImageDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ed0e6ae269932062c065509203f399e57782950
-file.0=D\:\\AndroidStudioProjects\\ClipperPicture\\clipImageDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64d39f750a5516c5d4c6fd2bc0a0869ed658094f\\classes.dex
