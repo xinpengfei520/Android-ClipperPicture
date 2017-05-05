@@ -1,0 +1,465 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* build.gradle
+* build\
+* build\generated\
+* build\generated\source\
+* build\generated\source\buildConfig\
+* build\generated\source\buildConfig\androidTest\
+* build\generated\source\buildConfig\androidTest\debug\
+* build\generated\source\buildConfig\androidTest\debug\com\
+* build\generated\source\buildConfig\androidTest\debug\com\example\
+* build\generated\source\buildConfig\androidTest\debug\com\example\clipimagedemo\
+* build\generated\source\buildConfig\androidTest\debug\com\example\clipimagedemo\test\
+* build\generated\source\buildConfig\androidTest\debug\com\example\clipimagedemo\test\BuildConfig.java
+* build\generated\source\buildConfig\debug\
+* build\generated\source\buildConfig\debug\com\
+* build\generated\source\buildConfig\debug\com\example\
+* build\generated\source\buildConfig\debug\com\example\clipimagedemo\
+* build\generated\source\buildConfig\debug\com\example\clipimagedemo\BuildConfig.java
+* build\generated\source\r\
+* build\generated\source\r\debug\
+* build\generated\source\r\debug\com\
+* build\generated\source\r\debug\com\example\
+* build\generated\source\r\debug\com\example\clipimagedemo\
+* build\generated\source\r\debug\com\example\clipimagedemo\R.java
+* build\intermediates\
+* build\intermediates\blame\
+* build\intermediates\blame\res\
+* build\intermediates\blame\res\debug\
+* build\intermediates\blame\res\debug\multi\
+* build\intermediates\blame\res\debug\multi\values.json
+* build\intermediates\blame\res\debug\single\
+* build\intermediates\blame\res\debug\single\drawable-hdpi.json
+* build\intermediates\blame\res\debug\single\drawable-mdpi.json
+* build\intermediates\blame\res\debug\single\layout.json
+* build\intermediates\classes\
+* build\intermediates\classes\debug\
+* build\intermediates\classes\debug\com\
+* build\intermediates\classes\debug\com\example\
+* build\intermediates\classes\debug\com\example\clipimagedemo\
+* build\intermediates\classes\debug\com\example\clipimagedemo\BuildConfig.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\ClipImageActivity.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\ClipImageBorderView.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\ClipImageLayout.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\ClipZoomImageView$1.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\ClipZoomImageView$AutoScaleRunnable.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\ClipZoomImageView.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\MainActivity.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R$attr.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R$dimen.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R$drawable.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R$id.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R$layout.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R$string.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R$style.class
+* build\intermediates\classes\debug\com\example\clipimagedemo\R.class
+* build\intermediates\exploded-aar\
+* build\intermediates\exploded-aar\com.android.support\
+* build\intermediates\exploded-aar\com.android.support\support-compat\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\aidl\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\aidl\android\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\aidl\android\support\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\aidl\android\support\v4\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\aidl\android\support\v4\os\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\aidl\android\support\v4\os\ResultReceiver.aidl
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\annotations.zip
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\
+* build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\annotations.zip
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar
+* build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\proguard.txt
+* build\intermediates\exploded-aar\com.android.support\support-core-utils\
+* build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\
+* build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml
+* build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\
+* build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar
+* build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\
+* build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar
+* build\intermediates\exploded-aar\com.android.support\support-fragment\
+* build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\
+* build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml
+* build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\annotations.zip
+* build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\
+* build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar
+* build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\
+* build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\media\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\media\MediaMetadataCompat.aidl
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\media\RatingCompat.aidl
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\media\session\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\media\session\MediaSessionCompat.aidl
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\media\session\ParcelableVolumeInfo.aidl
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\aidl\android\support\v4\media\session\PlaybackStateCompat.aidl
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\annotations.zip
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\
+* build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar
+* build\intermediates\exploded-aar\com.android.support\support-v4\
+* build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\
+* build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml
+* build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\
+* build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar
+* build\intermediates\incremental-classes\
+* build\intermediates\incremental-classes\debug\
+* build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+* build\intermediates\incremental-runtime-classes\
+* build\intermediates\incremental-runtime-classes\debug\
+* build\intermediates\incremental-runtime-classes\debug\instant-run.jar
+* build\intermediates\incremental-safeguard\
+* build\intermediates\incremental-safeguard\debug\
+* build\intermediates\incremental-safeguard\debug\tag.txt
+* build\intermediates\incremental-verifier\
+* build\intermediates\incremental-verifier\debug\
+* build\intermediates\incremental-verifier\debug\com\
+* build\intermediates\incremental-verifier\debug\com\example\
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\BuildConfig.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\ClipImageActivity.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\ClipImageBorderView.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\ClipImageLayout.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\ClipZoomImageView$1.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\ClipZoomImageView$AutoScaleRunnable.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\ClipZoomImageView.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\MainActivity.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R$attr.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R$dimen.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R$drawable.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R$id.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R$layout.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R$string.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R$style.class
+* build\intermediates\incremental-verifier\debug\com\example\clipimagedemo\R.class
+* build\intermediates\incremental\
+* build\intermediates\incremental\compileDebugAidl\
+* build\intermediates\incremental\compileDebugAidl\dependency.store
+* build\intermediates\incremental\compileDebugAndroidTestAidl\
+* build\intermediates\incremental\compileDebugAndroidTestAidl\dependency.store
+* build\intermediates\incremental\mergeDebugAndroidTestResources\
+* build\intermediates\incremental\mergeDebugAndroidTestResources\compile-file-map.properties
+* build\intermediates\incremental\mergeDebugAndroidTestResources\merger.xml
+* build\intermediates\incremental\mergeDebugAssets\
+* build\intermediates\incremental\mergeDebugAssets\merger.xml
+* build\intermediates\incremental\mergeDebugJniLibFolders\
+* build\intermediates\incremental\mergeDebugJniLibFolders\merger.xml
+* build\intermediates\incremental\mergeDebugResources\
+* build\intermediates\incremental\mergeDebugResources\compile-file-map.properties
+* build\intermediates\incremental\mergeDebugResources\merged.dir\
+* build\intermediates\incremental\mergeDebugResources\merged.dir\values\
+* build\intermediates\incremental\mergeDebugResources\merged.dir\values\values.xml
+* build\intermediates\incremental\mergeDebugResources\merger.xml
+* build\intermediates\incremental\mergeDebugShaders\
+* build\intermediates\incremental\mergeDebugShaders\merger.xml
+* build\intermediates\incremental\packageDebug\
+* build\intermediates\incremental\packageDebug\dex-renamer-state.txt
+* build\intermediates\incremental\packageDebug\file-input-save-data.txt
+* build\intermediates\incremental\packageDebug\zip-cache\
+* build\intermediates\incremental\packageDebug\zip-cache\qt4IbCUJRmRQ9TDL00r94OzVGKE=
+* build\intermediates\incremental\packageInstantRunResourcesDebug\
+* build\intermediates\incremental\packageInstantRunResourcesDebug\dex-renamer-state.txt
+* build\intermediates\incremental\packageInstantRunResourcesDebug\file-input-save-data.txt
+* build\intermediates\incremental\packageInstantRunResourcesDebug\zip-cache\
+* build\intermediates\incremental\packageInstantRunResourcesDebug\zip-cache\qt4IbCUJRmRQ9TDL00r94OzVGKE=
+* build\intermediates\instant-run-resources\
+* build\intermediates\instant-run-resources\resources-debug.ir.ap_
+* build\intermediates\instant-run-support\
+* build\intermediates\instant-run-support\debug\
+* build\intermediates\instant-run-support\debug\instant-run.zip
+* build\intermediates\instant-run-support\debug\manifest.crc
+* build\intermediates\instant-run-support\debug\manifest.xml
+* build\intermediates\manifest\
+* build\intermediates\manifest\androidTest\
+* build\intermediates\manifest\androidTest\debug\
+* build\intermediates\manifest\androidTest\debug\AndroidManifest.xml
+* build\intermediates\manifests\
+* build\intermediates\manifests\full\
+* build\intermediates\manifests\full\debug\
+* build\intermediates\manifests\full\debug\AndroidManifest.xml
+* build\intermediates\manifests\instant-run\
+* build\intermediates\manifests\instant-run\debug\
+* build\intermediates\manifests\instant-run\debug\AndroidManifest.xml
+* build\intermediates\res\
+* build\intermediates\res\merged\
+* build\intermediates\res\merged\debug\
+* build\intermediates\res\merged\debug\drawable-hdpi\
+* build\intermediates\res\merged\debug\drawable-hdpi\ic_launcher.png
+* build\intermediates\res\merged\debug\drawable-mdpi\
+* build\intermediates\res\merged\debug\drawable-mdpi\ic_launcher.png
+* build\intermediates\res\merged\debug\layout\
+* build\intermediates\res\merged\debug\layout\activity_main.xml
+* build\intermediates\res\merged\debug\layout\crop_image_layout.xml
+* build\intermediates\res\merged\debug\values\
+* build\intermediates\res\merged\debug\values\values.xml
+* build\intermediates\res\resources-debug-androidTest.ap_
+* build\intermediates\res\resources-debug.ap_
+* build\intermediates\restart-dex\
+* build\intermediates\restart-dex\debug\
+* build\intermediates\restart-dex\debug\build-info.xml
+* build\intermediates\symbols\
+* build\intermediates\symbols\debug\
+* build\intermediates\symbols\debug\R.txt
+* build\intermediates\transforms\
+* build\intermediates\transforms\dex\
+* build\intermediates\transforms\dex\debug\
+* build\intermediates\transforms\dex\debug\folders\
+* build\intermediates\transforms\dex\debug\folders\1000\
+* build\intermediates\transforms\dex\debug\folders\1000\10\
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_ab51d749222c81a218697284d32a809741285856\
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_ab51d749222c81a218697284d32a809741285856\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_2bc87ef8b35b0249ed4f46c70aa08a496f40a9d4\
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_2bc87ef8b35b0249ed4f46c70aa08a496f40a9d4\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_ef9430608466fde763e3c56502ac531cee8cdc13\
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_ef9430608466fde763e3c56502ac531cee8cdc13\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_91397fdb6a775b70c069197f4cb6954c8b89bf40\
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_91397fdb6a775b70c069197f4cb6954c8b89bf40\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_05719023027ddbef76fc865a1ba9742bfa39af57\
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_05719023027ddbef76fc865a1ba9742bfa39af57\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_82e04cbc5800e2c22b24d5eba6e10bdd6f8750c0\
+* build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_82e04cbc5800e2c22b24d5eba6e10bdd6f8750c0\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_194c4471aea9dd18fc4de7d313f8ffcd814dbd63\
+* build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_194c4471aea9dd18fc4de7d313f8ffcd814dbd63\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e7ba65f623ebd2dd3f2fc3740e8d39ee13de306\
+* build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e7ba65f623ebd2dd3f2fc3740e8d39ee13de306\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_22c686bf2edb6d87387ef891eaff02128ebfcf08\
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_22c686bf2edb6d87387ef891eaff02128ebfcf08\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2f3472860ba1bb6e8813d679ae404e5ff78a2163\
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2f3472860ba1bb6e8813d679ae404e5ff78a2163\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3900f193a9c136febf9bd3259bb59e2c552af3dd\
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3900f193a9c136febf9bd3259bb59e2c552af3dd\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4fe614ece3c5aa1d114f5572bf8b0c5a4025a85f\
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4fe614ece3c5aa1d114f5572bf8b0c5a4025a85f\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6586588964f85267c18e34e70de63cd5a26c533d\
+* build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6586588964f85267c18e34e70de63cd5a26c533d\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_3266fdba8edd65acc46d8f11efaa52d0cfe7aebd\
+* build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_3266fdba8edd65acc46d8f11efaa52d0cfe7aebd\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\
+* build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex
+* build\intermediates\transforms\instantRunSlicer\
+* build\intermediates\transforms\instantRunSlicer\debug\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_0\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_0\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_0\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_0\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_0\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_0\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_0\com\android\tools\fd\dummy\slice_0.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_1\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_1\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_1\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_1\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_1\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_1\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_1\com\android\tools\fd\dummy\slice_1.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_2\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_2\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_2\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_2\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_2\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_2\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_2\com\android\tools\fd\dummy\slice_2.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_3\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_3\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_3\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_3\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_3\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_3\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_3\com\android\tools\fd\dummy\slice_3.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_4\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_4\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_4\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_4\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_4\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_4\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_4\com\android\tools\fd\dummy\slice_4.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_5\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_5\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_5\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_5\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_5\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_5\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_5\com\android\tools\fd\dummy\slice_5.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_6\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_6\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_6\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_6\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_6\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_6\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_6\com\android\tools\fd\dummy\slice_6.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\android\tools\fd\dummy\slice_7.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\BuildConfig.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\ClipImageActivity.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\ClipImageBorderView.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\ClipImageLayout.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\ClipZoomImageView$1.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\ClipZoomImageView$AutoScaleRunnable.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\ClipZoomImageView.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\MainActivity.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R$attr.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R$dimen.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R$drawable.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R$id.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R$layout.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R$string.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R$style.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_7\com\example\clipimagedemo\R.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_8\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_8\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_8\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_8\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_8\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_8\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_8\com\android\tools\fd\dummy\slice_8.class
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_9\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_9\com\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_9\com\android\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_9\com\android\tools\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_9\com\android\tools\fd\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_9\com\android\tools\fd\dummy\
+* build\intermediates\transforms\instantRunSlicer\debug\folders\1\5\slice_9\com\android\tools\fd\dummy\slice_9.class
+* build\intermediates\transforms\instantRun\
+* build\intermediates\transforms\instantRun\debug\
+* build\intermediates\transforms\instantRun\debug\folders\
+* build\intermediates\transforms\instantRun\debug\folders\1\
+* build\intermediates\transforms\instantRun\debug\folders\1\5\
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\BuildConfig.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\ClipImageActivity.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\ClipImageBorderView.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\ClipImageLayout.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\ClipZoomImageView$1.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\ClipZoomImageView$AutoScaleRunnable.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\ClipZoomImageView.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\MainActivity.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R$attr.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R$dimen.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R$drawable.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R$id.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R$layout.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R$string.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R$style.class
+* build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\clipimagedemo\R.class
+* build\outputs\
+* build\outputs\apk\
+* build\outputs\apk\clipImageDemo-debug.apk
+* build\outputs\logs\
+* build\outputs\logs\manifest-merger-debug-report.txt
+* clipImageDemo.iml
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => clipImageDemo\src\main\AndroidManifest.xml
+* assets\ => clipImageDemo\src\main\assets
+* res\ => clipImageDemo\src\main\res\
+* src\ => clipImageDemo\src\main\java\
+* src\main\AndroidManifest.xml => clipImageDemo\src\main\resources\main\AndroidManifest.xml
+* src\main\res\drawable-hdpi\ic_launcher.png => clipImageDemo\src\main\resources\main\res\drawable-hdpi\ic_launcher.png
+* src\main\res\drawable-mdpi\ic_launcher.png => clipImageDemo\src\main\resources\main\res\drawable-mdpi\ic_launcher.png
+* src\main\res\layout\activity_main.xml => clipImageDemo\src\main\resources\main\res\layout\activity_main.xml
+* src\main\res\layout\crop_image_layout.xml => clipImageDemo\src\main\resources\main\res\layout\crop_image_layout.xml
+* src\main\res\values\dimens.xml => clipImageDemo\src\main\resources\main\res\values\dimens.xml
+* src\main\res\values\strings.xml => clipImageDemo\src\main\resources\main\res\values\strings.xml
+* src\main\res\values\styles.xml => clipImageDemo\src\main\resources\main\res\values\styles.xml
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
